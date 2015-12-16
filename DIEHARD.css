@@ -1,0 +1,22 @@
+h1{
+	text-align: center;
+	color: white;
+	background-color: black;
+}
+p { 
+ 	background-color: red;}
+em {
+	color: black;
+}
+div h1 {border: solid;}
+
+div p {
+	border: dashed;
+}
+h2 {
+	text-align: center;
+	border: none;}
+ol {
+	font-size: 40px;
+}
+ul {font-size: 30px;}
