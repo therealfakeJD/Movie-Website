@@ -1,0 +1,26 @@
+.stroop {
+	color: 555;
+	background-color: gray;
+	font-family: cursive;
+	font-style: bold;
+	text-align: center;
+}
+.bugs { 
+	display: center;
+	
+}
+.middle {
+	color: blue;
+	font-style: bold;
+	font-size: 30px;
+	text-align: center;
+}
+.bugs p {
+	font-size: 20px;
+	color: green ;
+}
+.footer {
+	text-align: center;
+	font-size: 40px;
+	background-color: gray;
+}
